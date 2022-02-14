@@ -24,7 +24,7 @@ public class DeleteElement {
         for (int x : A) {
             System.out.print(x + " ");
             System.out.println("This is another text");
-            
+            //New comment
         }
         System.out.println();
     }
