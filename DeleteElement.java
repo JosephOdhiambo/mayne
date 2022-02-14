@@ -23,6 +23,8 @@ public class DeleteElement {
         System.out.println("After deletion");
         for (int x : A) {
             System.out.print(x + " ");
+            System.out.println("This is another text");
+            
         }
         System.out.println();
     }
